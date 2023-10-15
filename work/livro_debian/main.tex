@@ -1,0 +1,39 @@
+% Auth: Nicklas Vraa
+% Docs: https://github.com/NicklasVraa/LiX
+% Everything you need to know about this template is found in on the github repository above. Stars are very appreciated.
+
+\documentclass{novel}
+
+\lang      {english}
+\title     {Manual Completo do Debian GNU/linux}
+\subtitle  {Teoria e prática}
+\authors   {Wellington Pinto de Oliveira}
+\cover     {resources/capalivrov2.png}{resources/novel_back.pdf}
+\license   {CC}{by-nc-sa}{3.0}
+\isbn      {978-0201529838}
+\publisher {AIED.com.br}
+\edition   {1}{2023}
+
+
+
+\note{
+	Este conteúdo foi desenvolvido para auxiliar nas práticas acadêmicas em disciplinas de Sistemas Operacionais com GNU/Linux e Redes de Computadores, é um texto que reúne teoria e a prática, ou seja, respalda teoria com a prática.\\
+	\newline Toda a prática pode ser validada automaticamente com o uso de um agente inteligente que auxilia na resolução dos erros implementados pelo aprendiz, sem a necessidade de intervenção de um instrutor neste primeiro momento, mas é claro, se nem com isso o aprendiz conseguir então é necessário a intervenção do educador.\\
+	\newline O material também conta com vídeos explicativos, o objetivo dos vídeos é proporcionar estudos realizados por autodidatas ou aprendizes em tempo vago.\\
+	\newline Todo o material está fundamentado em uma distribuição GNU/Linux Debian 12 de 64 bits por ser uma distribuição GNU/Linux conhecida e ser ótima para iniciantes. No primeiro capítulo o aprendiz terá acesso aos links e todo o ambiente é gratuito.\\
+	\newline Procuro reforçar neste conteúdo todo o requisito para as provas de certificação Linux LPI e ainda iniciar o administrador Linux nas linguagens C/C++ e Python para resolver problemas por programação, e ainda uma boa explanação sobre Scripts Bash.\\
+}
+
+\blurb{Maecenas urna nisi, luctus nec lorem eu, vehicula varius eros. Nullam non quam tempus, ultrices lorem at, viverra felis. Nam eu ligula sodales, suscipit sem sed, bibendum augue.}
+
+\begin{document}
+
+\toc
+
+\include{cap/introducao/main.tex}
+\include{cap/sistemaoperacional/main.tex}
+\include{cap/virtualizacao/main.tex}
+\include{cap/sistemaarquivos/main.tex}
+
+
+\end{document}
