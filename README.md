@@ -1,6 +1,6 @@
 COMUNICADO DE CENSURA DO GOOGLE DRIVE
 
-Recentemente fui censurado, algumas vezes e infelizmente. O Google Driver segue aceitando a denúncia de inúmeros usuários que este material é malicioso, talvez eu tenha tocado na ferida da Indústria de Livros sobre Linux.
+Recentemente fui censurado, algumas vezes e infelizmente. O Google Drive segue aceitando a denúncia de inúmeros usuários que este material é malicioso, talvez eu tenha tocado na ferida da Indústria de Livros sobre Linux.
 
 Fico feliz pois o material é tão bom que vem sofrendo, todas as vezes que faço o processo de recorrer o livro fica travado por umas 48 horas e isso é ruim, pois uso este livro durante minhas aulas.
 
